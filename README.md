@@ -1,3 +1,3 @@
 # Referral link
 
-> join.meetsidekick.com/sbffw
+> https://join.meetsidekick.com/sbffw
